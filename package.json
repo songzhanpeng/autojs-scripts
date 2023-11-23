@@ -1,0 +1,11 @@
+{
+  "name": "autojs-scripts",
+  "version": "1.0.0",
+  "description": "这个仓库用于存放一些个人使用的 AutoJS 脚本，帮助简化手机操作，提高效率。",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
